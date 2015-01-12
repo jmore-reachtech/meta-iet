@@ -53,7 +53,7 @@
       ]
     }
   ],
-  "conf": "TEMPLATECONF=meta-stengg/conf",
+  "conf": "TEMPLATECONF=meta-iet/conf",
   "machines":[
     {
         "name": "g2c-43-24",

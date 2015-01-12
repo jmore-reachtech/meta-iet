@@ -47,7 +47,7 @@
           "uri":"git@github.com:jmore-reachtech/meta-iet.git",
           "mirror":"git://git-mirror.local/meta-iet.git",
           "branch":"dylan",
-          "rev":"e1ef1149b44d6ef071ecdc20c1ab95d5f9b14377",
+          "rev":"a0b248e09a9bd7bfbc3193487f9b6d321375327d",
           "main": true
         }
       ]

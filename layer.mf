@@ -43,11 +43,11 @@
           "rev":"e501b3f17165aadc4176090929030c071e04be3a"
         },
         {
-          "name":"meta-stengg",
-          "uri":"git@github.com:jmore-reachtech/meta-stengg.git",
-          "mirror":"git://git-mirror.local/meta-stengg.git",
+          "name":"meta-iet",
+          "uri":"git@github.com:jmore-reachtech/meta-iet.git",
+          "mirror":"git://git-mirror.local/meta-iet.git",
           "branch":"dylan",
-          "rev":"e33af371908ce35de1fecca3299ed6634e112eca",
+          "rev":"e1ef1149b44d6ef071ecdc20c1ab95d5f9b14377",
           "main": true
         }
       ]

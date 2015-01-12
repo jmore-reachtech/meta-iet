@@ -11,6 +11,6 @@ BBLAYERS ?= " \
   ##COREBASE##/meta-yocto-bsp \
   ##COREBASE##/meta-fsl-arm \
   ##COREBASE##/meta-reach \
-  ##COREBASE##/meta-stengg \
+  ##COREBASE##/meta-iet \
   ##COREBASE##/meta-openembedded/meta-oe \
   "

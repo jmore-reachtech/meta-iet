@@ -5,8 +5,8 @@ LIC_FILES_CHKSUM = "file://${COREBASE}/LICENSE;md5=3f40d7994397109285ec7b81fdeb3
 PR = "r1"
 
 
-SRCREV = "aaf0bd6028e8788036a89595ea2c69ebf3ce9f3f"
-SRC_URI = "git://git@github.com/jmore-reachtech/sendip.git;protocol=ssh \
+SRCREV = "fa39e1327002abb28ad39e3f14bb5662f6cab8a0"
+SRC_URI = "git://git@github.com/jmore-reachtech/sendip.git;branch=allow-broadcast;protocol=ssh \
           "
           
 S = "${WORKDIR}/git"

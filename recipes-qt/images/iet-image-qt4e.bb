@@ -17,7 +17,7 @@ IMAGE_INSTALL_append = " \
 	usbutils \
 	wireless-tools \
 	wpa-supplicant \
-	sendip \
+        wireshark \
         linux-firmware-ar9271 \
 	linux-firmware-sd8686 \
 	linux-firmware-rtl8192cu \

@@ -18,7 +18,6 @@ IMAGE_INSTALL_append = " \
 	wireless-tools \
 	wpa-supplicant \
         wireshark \
-        linux-firmware-ar9271 \
 	linux-firmware-sd8686 \
 	linux-firmware-rtl8192cu \
 	linux-firmware-rtl8192ce \
